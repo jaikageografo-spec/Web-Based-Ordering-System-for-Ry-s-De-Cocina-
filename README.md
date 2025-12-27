@@ -32,35 +32,22 @@ To eliminate unclaimed orders and food waste by implementing a prepaid, web-base
 **Main Features:**
 
 **Customer Side:**
+-User registration and login
+-Digital menu with real-time availabilit
+-Cart and order placement
+-GCash payment proof upload
+-Order history and status tracking
+-Loyalty points earning and redemption
 
-User registration and login
 
-Digital menu with real-time availability
+**Admin Side:**
+-Dashboard for order verification
+-Menu management (add, edit, disable items)
+-User and staff account management
+-Sales reports and transaction records
+-Email notification management
+-Technical Highlights:
+-Built with OutSystems (low-code)
+-Uses MySQL for database
 
-Cart and order placement
-
-GCash payment proof upload
-
-Order history and status tracking
-
-Loyalty points earning and redemption
-
-Admin Side:
-
-Dashboard for order verification
-
-Menu management (add, edit, disable items)
-
-User and staff account management
-
-Sales reports and transaction records
-
-Email notification management
-
-Technical Highlights:
-
-Built with OutSystems (low-code)
-
-Uses MySQL for database
-
-Hosted on Apache (XAMPP for local, cloud for production)
+-Hosted on Apache (XAMPP for local, cloud for production)
