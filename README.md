@@ -51,5 +51,4 @@ To eliminate unclaimed orders and food waste by implementing a prepaid, web-base
 -Technical Highlights:
 -Built with OutSystems (low-code)
 -Uses MySQL for database
-
 -Hosted on Apache (XAMPP for local, cloud for production)
