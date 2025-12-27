@@ -28,9 +28,10 @@ Purpose:**
 
 To eliminate unclaimed orders and food waste by implementing a prepaid, web-based ordering system that ensures payment before food preparation.
 
+
 **Main Features:**
 
-**Customer Side:****
+**Customer Side:**
 
 User registration and login
 
